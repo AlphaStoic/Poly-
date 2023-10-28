@@ -17,7 +17,8 @@ _**Can it work in low end PCs?**_
 > Other things: Has an optmized version for LGWL (PojavLauncher)
 
 # Thanks 😁
-Thanks everyone for supporting!
+Thanks everyone for supporting! 
+Shaders are in Early Development!
 
 
 
