@@ -7,6 +7,9 @@ Introducing Poly+ Shaders for Minecraft, an exciting and innovative enhancement 
 # Credits
 
 [Choca13](https://github.com/Choca13)
+
+
+
 [Capttatsu](https://github.com/CaptTatsu)
 
 
