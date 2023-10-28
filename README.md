@@ -7,7 +7,7 @@ Introducing Poly+ Shaders for Minecraft, an exciting and innovative enhancement 
 # Credits
 
 ## BSL Shader Framework by Capttatsu:
-BSL was the first one used to start Poly+, I recommend it if you are starting out in the world of Minecraft shaders!
+BSL was the first one used to start Poly+, I recommend it if you are starting out in the world of Minecraft shaders! Credits must go to him and Choca13!
 
 ## Chocapic13's Shaders by Choca13:
 The brilliance of Choca13's shaders has left an indelible mark on the Minecraft community. The unique contributions from Choca13's shaders are integral to the magic of Poly+ Shaders.
